@@ -1,0 +1,25 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "''''",
+  "main": "airdrop.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RAMJI-16/airdrop-sol.git"
+  },
+  "author": "solana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RAMJI-16/airdrop-sol/issues"
+  },
+  "homepage": "https://github.com/RAMJI-16/airdrop-sol#readme",
+  "keywords": [
+    "airdrop"
+  ],
+  "dependencies": {
+    "@solana/web3.js": "^1.66.2"
+  }
+}
